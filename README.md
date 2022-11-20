@@ -1,2 +1,4 @@
 # asm-hello-world
-Hello world in x86_64 assembly.
+A simple hello world in x86_64 assembly with the AT&T syntax.
+
+Only work on linux atm.
