@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/max/projects/asm-hello-world/build",
+  "command": "/usr/bin/cc -g -o CMakeFiles/asm-hello-world.dir/main.S.o -c /home/max/projects/asm-hello-world/main.S",
+  "file": "/home/max/projects/asm-hello-world/main.S"
+}
+]
